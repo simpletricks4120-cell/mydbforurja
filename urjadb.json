@@ -45,7 +45,14 @@
         "device_id": "70eb516f8a071380",
         "username": "userx3",
         "password": "passx3",
-        "expirydate": "24-03-2026",
+        "expirydate": "24-03-2027",
+        "Allowoffline": false
+     },
+    {
+        "device_id": "e5b716b89a14abb8",
+        "username": "userx3",
+        "password": "passx3",
+        "expirydate": "30-03-2026",
         "Allowoffline": false
     }
     
