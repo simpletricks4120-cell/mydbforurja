@@ -69,6 +69,13 @@
         "password": "passx6",
         "expirydate": "18-03-2026",
         "Allowoffline": false
+      },
+    {
+        "device_id": "5e344b62f2f2721d",
+        "username": "userx7",
+        "password": "passx7",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
     }
 
 
